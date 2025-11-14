@@ -2493,7 +2493,7 @@
 									<!--  Company Logo Section -->
   									<div class="my-4 flex justify-center">
     									<img
-      										src="/static/logo.png"  
+      										src="/static/vayavya-logo.png"  
       										alt="Company Logo"
       										class="h-10 w-auto opacity-90"
     									/>
