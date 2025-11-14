@@ -2490,6 +2490,16 @@
 								}}
 							>
 								<div class=" h-full w-full flex flex-col">
+									<!--  Company Logo Section -->
+  									<div class="my-4 flex justify-center">
+    									<img
+      										src="/static/logo.png"  
+      										alt="Company Logo"
+      										class="h-10 w-auto opacity-90"
+    									/>
+  									</div>
+
+
 									<Messages
 										chatId={$chatId}
 										bind:history
